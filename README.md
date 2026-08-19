@@ -3,9 +3,9 @@
 This project performs end-to-end customer churn analysis and machine learning modeling using the notebook `PDS_Project.ipynb`.
 
 ## Project Files
-- `PDS_Project.ipynb`: Main notebook for EDA, feature engineering, training, and evaluation.
+- `churn_Project.ipynb`: Main notebook for EDA, feature engineering, training, and evaluation.
 - `EDA_Report.html`: Auto-generated EDA report using `ydata-profiling`.
-- `PDS_Report_13.pdf`: Project report.
+- `churn_Report_13.pdf`: Project report.
 - `requirements.txt`: Python dependencies.
 
 ## Dataset Requirement
